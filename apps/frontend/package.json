@@ -1,0 +1,11 @@
+{
+  "name": "@namespace/frontend",
+  "version": "1.0.0",
+  "scripts": {
+
+  },
+  "devDependencies": {
+    "@namespace/types": "1.0.0",
+    "@namespace/utils": "1.0.0"
+  }
+}

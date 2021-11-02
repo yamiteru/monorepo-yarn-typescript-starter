@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@namespace/types/*": ["shared/types/src/*"],
+      "@namespace/utils/*": ["shared/utils/src/*"]
+    }
+  },
+}
